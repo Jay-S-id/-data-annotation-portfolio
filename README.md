@@ -29,7 +29,7 @@ Project 2: Text Data Annotation
 
 Annotating and classifying text data using structured guidelines.
 
-[View Project 2](./project-2-text-data-annotation/)
+[View Project 2](./project-2-text-data-annotation)
 
 Project 3: Prompt Engineering
 

@@ -47,7 +47,7 @@ Project 5: Indonesian Language Quality Review
 
 Reviewing Indonesian text for grammar, spelling, clarity, fluency, and language quality.
 
-[View Project 5](./project-5-indonesian-language-quality-review/)
+http://./project-5-indonesian-language-quality/
 
 Tools
 

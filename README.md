@@ -23,7 +23,7 @@ Project 1: AI Response Evaluation
 
 Evaluating AI-generated responses based on accuracy, relevance, clarity, and instruction following.
 
-View Project 1
+[View Project 1](./project-1-ai-response-evaluation/)
 
 Project 2: Text Data Annotation
 

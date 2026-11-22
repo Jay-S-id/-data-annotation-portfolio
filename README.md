@@ -41,7 +41,7 @@ Project 4: Audio Transcription
 
 Transcribing Indonesian audio into written text with attention to accuracy and punctuation.
 
-[View Project 4](./project-4-audio-transcription/)
+[View Project 4](https://github.com/Jay-S-id/-data-annotation-portfolio/tree/main/project-1-ai-response-evaluation/project-2-text-data-annotation/project-3-prompt-engineering/project-4-audio-transcription)
 
 Project 5: Indonesian Language Quality Review
 

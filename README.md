@@ -35,7 +35,7 @@ Project 3: Prompt Engineering
 
 Writing and improving prompts to generate more accurate and relevant AI responses.
 
-[View Project 3](./project-3-prompt-engineering/)
+[View Project 3](https://github.com/Jay-S-id/-data-annotation-portfolio/tree/main/project-1-ai-response-evaluation/project-2-text-data-annotation/project-3-prompt-engineering)
 
 Project 4: Audio Transcription
 

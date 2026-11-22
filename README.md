@@ -29,25 +29,25 @@ Project 2: Text Data Annotation
 
 Annotating and classifying text data using structured guidelines.
 
-View Project 2
+[View Project 2](./project-2-text-data-annotation/)
 
 Project 3: Prompt Engineering
 
 Writing and improving prompts to generate more accurate and relevant AI responses.
 
-View Project 3
+[View Project 3](./project-3-prompt-engineering/)
 
 Project 4: Audio Transcription
 
 Transcribing Indonesian audio into written text with attention to accuracy and punctuation.
 
-View Project 4
+[View Project 4](./project-4-audio-transcription/)
 
 Project 5: Indonesian Language Quality Review
 
 Reviewing Indonesian text for grammar, spelling, clarity, fluency, and language quality.
 
-View Project 5
+[View Project 5](./project-5-indonesian-language-quality-review/)
 
 Tools
 
